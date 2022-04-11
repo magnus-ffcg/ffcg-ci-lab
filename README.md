@@ -6,10 +6,10 @@ Helt enkelt så behöver koden säkerhetsställas att den är så säker och tes
 Inget ska commitas eller köras i github
 
 I "pipelinen":
-    * Implementera att tester körs 
-    * Implementera att linter körs
-    * Bonus: Implementera att statisk analys körs 
-    * Bonus: Implementera att en säkerhetskoll körs
+* Implementera att tester körs 
+* Implementera att linter körs
+* Bonus: Implementera att statisk analys körs 
+* Bonus: Implementera att en säkerhetskoll körs
 
 Mycket kan vara "ganska klart", vad innehåller projektet? (Hint: Makefile)
 
